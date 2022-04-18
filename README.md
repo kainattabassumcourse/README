@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kainattabassumcourse
-- 👀 I’m interested in Frontend Techologies
+- 👋 Hi, I’m @kainattabassum
+- 👀 I’m interested to Learn new Frontend Techologies
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on Frontend Devs
 - 📫 How to reach me kainat.tabassum.course@gmail.com
